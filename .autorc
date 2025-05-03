@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Estrategasdelviejocontinente",
+  "repo": "container-r1btbpg",
+  "name": "Estrategasdelviejocontinente",
+  "email": "09rolu157@gmail.com",
+}
